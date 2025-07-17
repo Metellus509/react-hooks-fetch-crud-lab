@@ -9,12 +9,6 @@ function QuestionItem({ question,handleDelete }) {
     </option>
   ));
 
-  /*function handleDelete(){
-      fetch(`http://localhost:4000/questions/${id}`, {
-      method: "DELETE",
-  })
-  }*/
-
   return (
     <li>
       <h4>Question {id}</h4>
