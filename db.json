@@ -43,17 +43,6 @@
         "destructuring"
       ],
       "correctIndex": 3
-    },
-    {
-      "prompt": "Quel est le nom de la mere de Junior?",
-      "answers": [
-        "Julie",
-        "Junia",
-        "Helene",
-        "Jasmine"
-      ],
-      "correctIndex": 0,
-      "id": 6
     }
   ]
 }
